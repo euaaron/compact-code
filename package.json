@@ -1,0 +1,24 @@
+{
+  "name": "compact-editor",
+  "displayName": "Compact Editor | Windows",
+  "description": "See only what you need to see in the editor.",
+  "publisher": "AaronCarneiro",
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euaaron/compact-code.git"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "antfu.icons-carbon",
+    "miguelsolorio.symbols",
+    "diego-ferreira.monodracula",
+    "drcika.apc-extension"
+  ]
+}
