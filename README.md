@@ -1,5 +1,7 @@
 # Compact Code | Windows
 
+![image](https://github.com/euaaron/compact-code/assets/26356962/5ae9a638-5680-4440-a3c9-aaf01f32eb7d)
+
 ## About
 
 I aways liked macOS style system because of how clean and compact it is. So after discovering [APC extension by drcika](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) I decided started tweaking my VSCode to be more compact and this is the result.
